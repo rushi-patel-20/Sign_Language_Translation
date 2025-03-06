@@ -1,1 +1,2 @@
-# Sign_Language_Translation
+# Sign-Language-Translation
+It is detect ASL Language and translate into alphabets. 
